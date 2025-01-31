@@ -106,7 +106,7 @@ class RealTimePlot:
                     alpha=0.8,
                     horizontalalignment='right')
 
-        self.ax.text(0.88, 0.88, "97323", 
+        self.ax.text(0.88, 0.88, "00000", 
                     transform=self.ax.transAxes,
                     color='slategray',
                     fontsize=15,
